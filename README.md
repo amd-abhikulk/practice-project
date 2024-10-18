@@ -4,4 +4,4 @@ I added a new line
 
 This is my third line
 
-This is my fourth command
+This is my sixth command
